@@ -120,6 +120,9 @@ info={
 album_info.update(info)
 print(album_info)
 
+# cách 3:
+album_info["anount"]=2000
+
 # Làm trống dict: album_info
 album_info.clear()
 print(album_info)
