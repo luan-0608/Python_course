@@ -21,7 +21,11 @@
 # set1.clear()
 # print(set1)
 
-set1= {10,12,15,1,2,4,-10}
-any_value= set1.pop()
-print(any_value)
-print(set1)
+# set1= {10,12,15,1,2,4,-10}
+# any_value= set1.pop()
+# print(any_value)
+# print(set1)
+
+
+
+
